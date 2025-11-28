@@ -1,0 +1,5 @@
+{
+  "name": "Gloov Up  admin Portal",
+  "description": "Internal monitoring portal for Gloov Up, featuring project tracking, ticket management, and attendance monitoring.",
+  "requestFramePermissions": []
+}
